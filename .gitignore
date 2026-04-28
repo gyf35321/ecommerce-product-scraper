@@ -1,0 +1,6 @@
+output_taobao/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
